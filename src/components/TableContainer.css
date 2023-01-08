@@ -1,0 +1,14 @@
+.Table-Container{
+    display: flex;
+    width: 90vw;
+    height: 50vh;
+    overflow-y: scroll;
+}
+
+table {
+    height: 100%;
+} 
+
+th, td {
+    border: 1px ghostwhite ridge;
+}
