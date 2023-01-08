@@ -1,3 +1,3 @@
 # Musicians Dashboard
 
-A Musicians Dashboard I am creating, whist I explore ReactJS
+A Musicians Dashboard I am creating, whilst I explore ReactJS
